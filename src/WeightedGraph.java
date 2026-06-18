@@ -294,4 +294,30 @@ public class WeightedGraph {
         }
         return false;
     }
+    public void editEdge(String from, String to, int newWeight) {
+        var fromNode = nodes.get(from);
+        var toNode = nodes.get(to);
+
+        if (fromNode == null || toNode == null)
+            throw new IllegalArgumentException("المحطات المدخلة غير موجودة في الشبكة.");
+
+        boolean found = false;
+
+        for (var edge : fromNode.getEdges()) {
+            if (edge.to == toNode) {
+                edge.weight = newWeight;
+                found = true;
+            }
+        }
+
+        for (var edge : toNode.getEdges()) {
+            if (edge.to == fromNode) {
+                edge.weight = newWeight;
+            }
+        }
+
+        if (!found) {
+            throw new NoSuchElementException("لا يوجد مسار قائم بين هاتين المحطتين لتعديله.");
+        }
+    }
 }
