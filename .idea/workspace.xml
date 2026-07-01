@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d261199-eeb4-40a9-bbe1-74b69f12ec68" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BackEnd/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackEnd/BookTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackEnd/BookWaitingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackEnd/BorrowRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackEnd/BorrowRecordList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackEnd/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackEnd/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackEnd/StudentRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackEnd/WaitingRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FrontEnd/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FrontEnd/BooksPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FrontEnd/BorrowingPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FrontEnd/MainFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FrontEnd/ReportsPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FrontEnd/StudentsPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FrontEnd/UIHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FrontEnd/WaitingQueuePanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="problem-2" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="problem-2" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="3FtnZfkz4kpNvzQjbwgZy7QNcE7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "problem-1",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Haidar/Desktop/alg/alg2",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="alg2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="alg2" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d261199-eeb4-40a9-bbe1-74b69f12ec68" name="Changes" comment="" />
+      <created>1782903290936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782903290936</updated>
+    </task>
+    <servers />
+  </component>
+</project>
