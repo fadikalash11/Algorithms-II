@@ -1,8 +1,8 @@
-package FrontEnd;
+package problem1.FrontEnd;
 
-import BackEnd.BookTree;
-import BackEnd.BorrowRecordList;
-import BackEnd.Book;
+import problem1.BackEnd.BookTree;
+import problem1.BackEnd.BorrowRecordList;
+import problem1.BackEnd.Book;
 
 import javax.swing.BorderFactory;
 import javax.swing.JButton;

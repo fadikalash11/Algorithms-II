@@ -1,7 +1,7 @@
-package FrontEnd;
+package problem1.FrontEnd;
 
-import BackEnd.Book;
-import BackEnd.BookTree;
+import problem1.BackEnd.Book;
+import problem1.BackEnd.BookTree;
 
 import javax.swing.BorderFactory;
 import javax.swing.JButton;

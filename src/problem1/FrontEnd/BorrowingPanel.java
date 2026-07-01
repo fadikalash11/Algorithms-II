@@ -1,9 +1,9 @@
-package FrontEnd;
+package problem1.FrontEnd;
 
-import BackEnd.BorrowRecord;
-import BackEnd.BorrowRecordList;
-import BackEnd.Student;
-import BackEnd.StudentRegistry;
+import problem1.BackEnd.BorrowRecord;
+import problem1.BackEnd.BorrowRecordList;
+import problem1.BackEnd.Student;
+import problem1.BackEnd.StudentRegistry;
 
 import javax.swing.BorderFactory;
 import javax.swing.JButton;

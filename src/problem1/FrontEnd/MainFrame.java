@@ -1,4 +1,4 @@
-package FrontEnd;
+package problem1.FrontEnd;
 
 import javax.swing.BorderFactory;
 import javax.swing.JButton;

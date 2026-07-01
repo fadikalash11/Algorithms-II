@@ -1,7 +1,7 @@
-package FrontEnd;
+package problem1.FrontEnd;
 
-import BackEnd.Student;
-import BackEnd.StudentRegistry;
+import problem1.BackEnd.Student;
+import problem1.BackEnd.StudentRegistry;
 
 import javax.swing.BorderFactory;
 import javax.swing.JButton;

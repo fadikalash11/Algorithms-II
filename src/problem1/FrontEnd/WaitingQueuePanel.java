@@ -1,10 +1,10 @@
-package FrontEnd;
+package problem1.FrontEnd;
 
-import BackEnd.BookWaitingQueue;
-import BackEnd.BorrowRecord;
-import BackEnd.Student;
-import BackEnd.StudentRegistry;
-import BackEnd.WaitingRequest;
+import problem1.BackEnd.BookWaitingQueue;
+import problem1.BackEnd.BorrowRecord;
+import problem1.BackEnd.Student;
+import problem1.BackEnd.StudentRegistry;
+import problem1.BackEnd.WaitingRequest;
 
 import javax.swing.BorderFactory;
 import javax.swing.JButton;
@@ -371,7 +371,7 @@ public class WaitingQueuePanel extends JPanel {
             );
 
             if (isDone(message)) {
-                BorrowRecord record = BackEnd.BorrowRecordList.searchByRecordId(recordId);
+                BorrowRecord record = problem1.BackEnd.BorrowRecordList.searchByRecordId(recordId);
                 UIHelper.showSuccessMessage(
                         this,
                         "Request served successfully.\n\n"

@@ -1,4 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PropertiesComponent">{}</component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="481387ba-a4f2-4c6b-a47c-d328a43a6a1d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Problem2/GraphCanvas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem2/Path.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem2/TrainNetworkGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem2/WeightedGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem2/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problems-algrothim 2/GraphCanvas$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problems-algrothim 2/GraphCanvas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problems-algrothim 2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problems-algrothim 2/Path.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problems-algrothim 2/TrainNetworkGUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problems-algrothim 2/WeightedGraph$Edge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problems-algrothim 2/WeightedGraph$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problems-algrothim 2/WeightedGraph$NodeEntry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problems-algrothim 2/WeightedGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problems-algrothim 2/input.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="3Fv3f5ZtwYyTYqqNeSeSTo5GLdO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/fadikalash/IdeaProjects/Problems-algrothim 2/src/Problem2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Problem2" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="481387ba-a4f2-4c6b-a47c-d328a43a6a1d" name="Changes" comment="" />
+      <created>1782941816437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782941816437</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
 </project>

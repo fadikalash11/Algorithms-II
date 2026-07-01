@@ -1,4 +1,4 @@
-package FrontEnd;
+package problem1.FrontEnd;
 
 import javax.swing.SwingUtilities;
 import javax.swing.UIManager;

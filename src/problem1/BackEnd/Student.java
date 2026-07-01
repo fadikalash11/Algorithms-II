@@ -1,4 +1,4 @@
-package BackEnd;
+package problem1.BackEnd;
 
 public class Student {
     private final String studentId;
